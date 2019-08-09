@@ -38,4 +38,22 @@ OUTPUT
 JugsMugsPugs
 ```
 
+a=int(input())
+
+if(a % 3 == 0 ):
+
+  print("Jugs")
+  
+if(a % 5 == 0):
+
+  print("Mugs")
+  
+if(a % 7 == 0):
+
+  print("Pugs")
+  
+if(a % 3 != 0 and a % 5 != 0 and a % 7 != 0):
+
+  print(a)
+
 
