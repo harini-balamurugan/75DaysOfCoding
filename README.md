@@ -80,3 +80,7 @@ If the boolean 'rev' is True, then reverse the order of printing.
   "PugsMugs" for multiple of 3 and 7   
   "MugsJugs" for multiple of 3 and 5    
   "PugsJugs" for multiple of 5 and 7](Day013.md)
+  
+ 26)[N numbers are given in the input. Read them and print their sum.The first line of input contains the integer N, which is the number of integers to follow. Each of the next N lines contains one integer. Print the sum of these N integers.](Day014.md)
+ 
+ 27)[
