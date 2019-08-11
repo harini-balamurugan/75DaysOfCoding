@@ -28,32 +28,22 @@ OUTPUT
 False
 ```
 
+```
 digit_c = input()
-
 number_s = input() 
-
 for digit in number_s: 
-
   if digit == digit_c:
-  
-   print(True)
-    
-   break
-else:
-
-  print(False)
-  
-if digit_c in number_s:
-
-  print(True)
-  
-else:
-
-  print(False )
-
+    print(True)
+    break
+  else:
+    print(False)
+  if digit_c in number_s:
+    print(True)
+  else:
+   print(False )
 print(digit_c in number_s) 
-
-
+```
+    
 
 
 
