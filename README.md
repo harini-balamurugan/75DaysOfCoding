@@ -50,3 +50,7 @@ If the number is a multiple of both 5 and 7, it prints "MugsPugs".
 If the number is a multiple of both 3, 5 and 7, it prints "JugsMugsPugs".
 Otherwise, it prints the number.
 LITE REQUIREMENT: Limit your code to use only if statements and not to exceed 4 of them.](Day011a.md)
+
+22)[
+
+23)[Write a program that receives a number on the input.It also should receive another boolean value 'rev' on the input.](Day012a.md)
