@@ -59,7 +59,8 @@ Otherwise, it prints the number.
 SPECIAL REQUIREMENT: 
 Try and limit the number of conditional statements to not more than 4. And use only one print statement.](Day012.md)
 
-23)[Write a program that receives a number on the input.It also should receive another boolean value 'rev' on the input.](Day012a.md)
+23)[JugsMugsPugsPlus and Reverse
+Write a program that receives a number on the input.It also should receive another boolean value 'rev' on the input.](Day012a.md)
 
 24)[JugsMugsPugsPlusReverse Range
 Write a program that receives a number on the input and prints values from 1 to that number subjected to the conditions below.
