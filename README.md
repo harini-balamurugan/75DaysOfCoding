@@ -66,9 +66,9 @@ Write a program that receives a number on the input and prints values from 1 to 
 It also should receive another boolean value 'rev' on the input.
 REVERSE REQUIREMENT:
 If the boolean 'rev' is True, then reverse the order of printing. 
-   - "PugsJugsMugs" for multiples of 3, 5 and 7
-   - "PugsMugs" for multiple of 3 and 7
-   - "MugsJugs" for multiple of 3 and 5 
-   - "PugsJugs" for multiple of 5 and 7](Day012b.md)
+  - "PugsJugsMugs" for multiples of 3, 5 and 7
+  - "PugsMugs" for multiple of 3 and 7
+  - "MugsJugs" for multiple of 3 and 5 
+  - "PugsJugs" for multiple of 5 and 7.](Day012b.md)
 
 25)[
