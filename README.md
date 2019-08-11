@@ -86,5 +86,5 @@ If the boolean 'rev' is True, then reverse the order of printing.
  27)[For the given integer N calculate the following sum:
 1³ + 2³ + ... + N³](Day014a.md)
 
-28)[sum of factorial.For the given integer n calculate the value 
-1! + 2! + 3! + ... + n!](Day015.md)
+28)[sum of factorial. For the given integer n calculate the value 
+1! + 2! + 3! + ... + n!](Day014b.md)
