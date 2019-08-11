@@ -83,4 +83,7 @@ If the boolean 'rev' is True, then reverse the order of printing.
   
  26)[N numbers are given in the input. Read them and print their sum.The first line of input contains the integer N, which is the number of integers to follow. Each of the next N lines contains one integer. Print the sum of these N integers.](Day014.md)
  
- 27)[
+ 27)[For the given integer N calculate the following sum:
+1³ + 2³ + ... + N³](Day014a.md)
+
+28)
