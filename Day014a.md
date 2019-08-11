@@ -1,7 +1,6 @@
 ## For the given integer N calculate the following sum:
-````
 1³ + 2³ + ... + N³
-```
+
 
 ```
 Example input
