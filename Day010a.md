@@ -24,23 +24,16 @@ OUTPUT
 112
 ```
 
+```
 a = int(input())
-
 if (a % 3 == 0 and a % 5 == 0):
-
-  print("JugsMugs")
-  
+  print("JugsMugs") 
 elif a % 3 == 0:
-
-  print("Jugs")
-  
+  print("Jugs")  
 elif a % 5 == 0:
-
-  print("Mugs")
-  
+  print("Mugs")  
 else:
-
   print(a)
-  
+```  
   
 
