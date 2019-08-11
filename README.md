@@ -86,9 +86,6 @@ If the boolean 'rev' is True, then reverse the order of printing.
 27)[For the given integer N calculate the following sum:
 1³ + 2³ + ... + N³](Day014a.md)
 
-28)[In mathematics, the factorial of an integer n, denoted by n! is the following product:
-n! = 1 × 2 × … × n
-For the given integer n calculate the value 
-1! + 2! + 3! + ... + n!
-Try to discover the solution that uses only one for-loop. And don't use math module in this exercise.](Day014b.md)
+28)[sum of factorial.](Day014b.md)
+
 
