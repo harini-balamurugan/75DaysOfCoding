@@ -90,4 +90,8 @@ If the boolean 'rev' is True, then reverse the order of printing.
 For the given integer n calculate the value 
 1! + 2! + 3! + ... + n!](Day014b.md)
 
+29)[For given integer n ≤ 9 print a ladder of n steps. The k-th step consists of the integers from 1 to k without spaces between them.](Day015.md)
+
+30)
+
 
