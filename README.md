@@ -92,6 +92,6 @@ For the given integer n calculate the value
 
 29)[For given integer n ≤ 9 print a ladder of n steps. The k-th step consists of the integers from 1 to k without spaces between them.](Day015.md)
 
-30)
+30)[There was a set of cards with numbers from 1 to N. One of the card is now lost. Determine the number on that lost card given the numbers for the remaining cards.](Day015a.md)
 
 
