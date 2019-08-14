@@ -94,4 +94,6 @@ For the given integer n calculate the value
 
 30)[There was a set of cards with numbers from 1 to N. One of the card is now lost. Determine the number on that lost card given the numbers for the remaining cards.](Day015a.md)
 
+31)[Given a sequence of distinct non-negative integers, where each number is written in a separate line. The sequence ends with 0. Print the second largest element in this sequence. It is guaranteed that the sequence has at least two elements.](Day016.md)
+
 
