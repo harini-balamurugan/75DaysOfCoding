@@ -105,6 +105,6 @@ the missing spy plane.  If no plane is found missing, then print "All arrived!" 
 
 35)[Given a string in which the letter h occurs at least twice, reverse the sequence of characters enclosed between the first and last occurrences of it.](Day017b.md)
 
-36)
+36)[Given a string in which the letter h occurs at least twice, replace every occurrence of the letter h by the letter H, except for the first and the last ones.](Day017c.md)
 
 
