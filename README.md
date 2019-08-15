@@ -101,4 +101,6 @@ the missing spy plane.  If no plane is found missing, then print "All arrived!" 
 
 33)[Strings: Slices](Day017.md)
 
-34)[
+34)[Given a string in which the letter h occurs at least twice. Remove from that string the first and the last occurrence of the letter h, as well as all the characters between them.](Day017a.md)
+
+35)[
