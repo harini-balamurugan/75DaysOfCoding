@@ -98,3 +98,7 @@ For the given integer n calculate the value
 
 32)[ Given a list of plane IDs, write a program to print out the ID of 
 the missing spy plane.  If no plane is found missing, then print "All arrived!"  ](Day016a.md)
+
+33)[Strings: Slices](Day017.md)
+
+34)[
