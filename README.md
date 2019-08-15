@@ -96,4 +96,5 @@ For the given integer n calculate the value
 
 31)[Given a sequence of distinct non-negative integers, where each number is written in a separate line. The sequence ends with 0. Print the second largest element in this sequence. It is guaranteed that the sequence has at least two elements.](Day016.md)
 
-
+32)[ Given a list of plane IDs, write a program to print out the ID of 
+the missing spy plane.  If no plane is found missing, then print "All arrived!"  ](Day016a.md)
