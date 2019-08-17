@@ -1,4 +1,4 @@
-## 
+##  Lists: Swap min and max
 
 Given a list of distinct numbers, swap the minimum and the maximum and print the resulting list.
 
