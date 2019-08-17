@@ -115,3 +115,8 @@ the missing spy plane.  If no plane is found missing, then print "All arrived!" 
 
 40)[Given a list of non-zero integers, find and print the first adjacent pair of elements that have the same sign. If there is no such pair, print 0.](Day018c.md)
 
+41)[Given a list of numbers with all elements sorted in ascending order, determine and print the number of distinct elements in it.](Day019.md)
+
+42)[Given a list of distinct numbers, swap the minimum and the maximum and print the resulting list.](Day019a.md)
+
+43)[
