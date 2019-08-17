@@ -107,4 +107,6 @@ the missing spy plane.  If no plane is found missing, then print "All arrived!" 
 
 36)[Given a string in which the letter h occurs at least twice, replace every occurrence of the letter h by the letter H, except for the first and the last ones.](Day017c.md)
 
+37)[Given a list of numbers, find and print all its elements with even indices (i.e. A[0], A[2], A[4], ...).](Day018.md)
+
 
