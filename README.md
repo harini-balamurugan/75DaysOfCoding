@@ -119,4 +119,8 @@ the missing spy plane.  If no plane is found missing, then print "All arrived!" 
 
 42)[Given a list of distinct numbers, swap the minimum and the maximum and print the resulting list.](Day019a.md)
 
-43)[
+43)[Given a list of numbers, swap adjacent elements in each pair (swap A[0] with A[1], A[2] with A[3], etc.). Print the resulting list. If a list has an odd number of elements, leave the last element intact.](Day019b.md)
+
+44)[Given a list of numbers, determine and print the number of elements that are greater than both of their neighbors.
+The first and the last items of the list shouldn't be considered because they don't have two neighbors.](Day019c.md)
+
