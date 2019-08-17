@@ -111,8 +111,7 @@ the missing spy plane.  If no plane is found missing, then print "All arrived!" 
 
 38)[Given a list of numbers, print all its even elements. Use a for-loop that iterates over the list itself and not over its indices. That is, don't use range()](Day018a.md)
 
-39)[Given a list of numbers, find and print all its elements that are greater than their left neighbor.](day018b.md)
+39)[Given a list of numbers, find and print all its elements that are greater than their left neighbor.](Day018b.md)
 
-40)[
+40)[Given a list of non-zero integers, find and print the first adjacent pair of elements that have the same sign. If there is no such pair, print 0.](Day018c.md)
 
-40)[
