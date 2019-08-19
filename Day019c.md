@@ -11,6 +11,7 @@ Example output
 2
 ```
 
+## source code
 ```
 a = [int(s) for s in input().split()]
 total = 0
