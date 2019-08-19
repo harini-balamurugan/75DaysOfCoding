@@ -8,6 +8,7 @@ Example output
 6
 ```
 
+## source code
 ```
 a = int(input(" "))
 total = 0
