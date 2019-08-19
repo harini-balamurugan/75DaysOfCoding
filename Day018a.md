@@ -10,6 +10,7 @@ Example output
 2 2 4
 ```
 
+## source code
 ```
 a = [int(s) for s in input().split()]
 for i in a:
