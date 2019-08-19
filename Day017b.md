@@ -10,6 +10,7 @@ Example output
 In th a devil ereht dnuorg eht ni eloh ehobbit
 ```
 
+## source code
 ```
 s = input()
 t = (s[s.find('h'):s.rfind('h')])
