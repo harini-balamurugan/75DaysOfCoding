@@ -28,6 +28,7 @@ OUTPUT
 False
 ```
 
+## source code
 ```
 digit_c = input()
 number_s = input() 
