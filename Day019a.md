@@ -10,6 +10,7 @@ Example output
 3 4 1 2 5
 ```
 
+## source code
 ```
 a = [int(s) for s in input().split()]
 min,max = a.index(min(a)),a.index(max(a))
