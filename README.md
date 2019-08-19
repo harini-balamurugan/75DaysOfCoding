@@ -128,3 +128,7 @@ The first and the last items of the list shouldn't be considered because they do
 
 46)[It is possible to place 8 queens on an 8×8 chessboard so that no two queens threaten each other. Thus, it requires that no two queens share the same row, column, or diagonal.](Day020a.md)
 
+47)[The text is given in a single line. For each word of the text count the number of its occurrences before it.](Day021.md)
+
+48)[
+
