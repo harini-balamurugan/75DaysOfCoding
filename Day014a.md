@@ -10,6 +10,7 @@ Example output
 36
 ```
 
+## source code
 ```
 a = int(input())
 li=[]
