@@ -18,6 +18,7 @@ Example output #2
 0
 ```
 
+## source code
 ```
 x = input()
 lst = list(map(int, x.split()))
