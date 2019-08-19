@@ -130,5 +130,5 @@ The first and the last items of the list shouldn't be considered because they do
 
 47)[The text is given in a single line. For each word of the text count the number of its occurrences before it.](Day021.md)
 
-48)[
+48)[You are given a dictionary consisting of word pairs. Every word is a synonym of the other word in its pair. All the words in the dictionary are different.After the dictionary there's one more word given. Find a synonym for it.](Day021a.md)
 
