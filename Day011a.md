@@ -38,6 +38,7 @@ OUTPUT
 JugsMugsPugs
 ```
 
+## source code
 ```
 a=int(input())
 if(a % 3 == 0 ):
