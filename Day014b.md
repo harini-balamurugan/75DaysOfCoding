@@ -17,6 +17,7 @@ Example output
 33
 ```
 
+## source code
 ```
 a = int(input())
 t=0
