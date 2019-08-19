@@ -13,6 +13,7 @@ Example output
 4
 ```
 
+## source code
 ```
 N = int(input())
 total = 0
