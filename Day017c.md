@@ -10,6 +10,7 @@ Example output
 In the Hole in tHe ground tHere lived a hobbit
 ```
 
+## source code
 ```
 s = str(input())
 t = s[s.find("h") + 1:s.rfind("h")]
