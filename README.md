@@ -124,3 +124,7 @@ the missing spy plane.  If no plane is found missing, then print "All arrived!" 
 44)[Given a list of numbers, determine and print the number of elements that are greater than both of their neighbors.
 The first and the last items of the list shouldn't be considered because they don't have two neighbors.](Day019c.md)
 
+45)[Given a list of numbers, find and print the elements that appear in it only once. Such elements should be printed in the order in which they occur in the original list.](Day020.md)
+
+46)[
+
