@@ -13,6 +13,7 @@ Example output
 
 ```
 
+## source code
 ```
 b = int(input())
 h = int(input())
