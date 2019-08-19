@@ -58,6 +58,7 @@ OUTPUT
 JugsMugsPugs
 ```
 
+## source code
 ```
 i = int(input())
 rev =int(input())
