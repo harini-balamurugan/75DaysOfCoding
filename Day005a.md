@@ -11,6 +11,7 @@ Example output
 2
 ```
 
+## source code
 ```
 N = int(input())
 K = int(input())
