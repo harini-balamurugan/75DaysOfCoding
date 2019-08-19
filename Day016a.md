@@ -50,6 +50,7 @@ OUTPUT
 11100
 ```
 
+## source code
 ```
 a = int(input())
 b= []
