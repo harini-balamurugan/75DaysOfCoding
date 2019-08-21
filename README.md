@@ -136,3 +136,6 @@ The first and the last items of the list shouldn't be considered because they do
 
 50)[Given a list of countries and cities of each country, then given the names of the cities. For each city print the country in which it is located.](Day022a.md)
 
+51)[The first line contains the number of records. After that, each entry contains the name of the candidate and the number of votes they got in some state. Count the results of the elections: sum the number of votes for each candidate. Print candidates in the alphabetical order.](Day023.md)
+
+52)[Given a number n, followed by n lines of text, print all words encountered in the text, one per line, with their number of occurrences in the text. The words should be sorted in descending order according to their number of occurrences, and all words within the same frequency should be printed in lexicographical order.](Day023a.md)
