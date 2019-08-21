@@ -9,8 +9,8 @@ Given a number n, followed by n lines of text, print all words encountered in th
 After you created a dictionary of the words and their frequencies, you would like to sort it according to the frequencies. This can be achieved if you create a list whose elements are lists of two elements: the number of occurrences of a word and the word itself. For example, [[2, 'hi'], [1, 'what'], [3, 'is']]. Then the standard list sort will sort a list of lists, with the lists compared by the first element, and if these are equal, by the second element. This is nearly what is required.
 ```
 
+## Example input
 ```
-Example input
 9
 hi
 hi
@@ -21,8 +21,10 @@ my name is damme
 van damme
 claude van damme
 jean claude van damme
+```
 
 Example output
+```
 damme 4
 is 3
 name 3
