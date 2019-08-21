@@ -23,7 +23,7 @@ claude van damme
 jean claude van damme
 ```
 
-Example output
+## Example output
 ```
 damme 4
 is 3
