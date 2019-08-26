@@ -139,3 +139,8 @@ The first and the last items of the list shouldn't be considered because they do
 51)[The first line contains the number of records. After that, each entry contains the name of the candidate and the number of votes they got in some state. Count the results of the elections: sum the number of votes for each candidate. Print candidates in the alphabetical order.](Day023.md)
 
 52)[Given a number n, followed by n lines of text, print all words encountered in the text, one per line, with their number of occurrences in the text. The words should be sorted in descending order according to their number of occurrences, and all words within the same frequency should be printed in lexicographical order.](Day023a.md)
+
+53)[Define a function thank_you so that it prints the equivalent of two lines of compliments. 
+The function must accept an argument name which can be used within the function. ](Day024.md)
+
+54)[Write a function second_is_second_largest that will return True if the 2nd largest value is in the 2nd position. If not, return False.The function should accept three arguments. ](Day024a.md)
