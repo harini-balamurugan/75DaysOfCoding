@@ -147,7 +147,7 @@ The function must accept an argument name which can be used within the function.
 
 55)[Write a Python function string_rotate to generate the desired pattern. The function should accept an integer as its single argument. ](Day025.md)
 
-56)Write a function second_biggest_value which accepts three integers, and does the following:
+56)[Write a function second_biggest_value which accepts three integers, and does the following
 returns the second biggest value among the three
 returns “NA” if there are two or more equal values](Day025a.md)
 
