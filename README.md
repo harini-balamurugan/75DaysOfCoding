@@ -144,3 +144,10 @@ The first and the last items of the list shouldn't be considered because they do
 The function must accept an argument name which can be used within the function. ](Day024.md)
 
 54)[Write a function second_is_second_largest that will return True if the 2nd largest value is in the 2nd position. If not, return False.The function should accept three arguments. ](Day024a.md)
+
+55)[Write a Python function string_rotate to generate the desired pattern. The function should accept an integer as its single argument. ](Day025.md)
+
+56)Write a function second_biggest_value which accepts three integers, and does the following:
+returns the second biggest value among the three
+returns “NA” if there are two or more equal values](Day025a.md)
+
