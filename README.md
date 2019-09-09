@@ -174,5 +174,5 @@ For example, if you order 5x5 tiles, they will be lot less expensive than 1x1 ti
 You want to ensure every part of the floor is covered  (i.e. there are no holes or gaps)
 You want to select tiles of dimension such that there is no need for breaking them
 Write a function tile_solve to calculate the optimum tile dimension, which 
-accept a 3rd parameter, which when not provided, defaults to value of 1. ](Day029.md)
+accept a 3rd parameter, which when not provided, defaults to value of 1. ](Day028.md)
 
