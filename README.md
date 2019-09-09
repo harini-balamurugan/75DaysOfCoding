@@ -151,3 +151,11 @@ The function must accept an argument name which can be used within the function.
 returns the second biggest value among the three
 returns “NA” if there are two or more equal values](Day025a.md)
 
+57)[Suppose a variable x can have only three possible different values a, b and c, and you wish to assign to x the value other than its current one, and you wish your code to be independent of the values of a, b and c.
+What is the most efficient way to cycle among three values? Write a function cycle_values so that it satisfies
+ cycle_values(a) = b
+ cycle_values(b) = c
+ cycle_values(c) = a](Day025.md)
+ 
+ 58)[
+
