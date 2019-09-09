@@ -155,7 +155,16 @@ returns “NA” if there are two or more equal values](Day025a.md)
 What is the most efficient way to cycle among three values? Write a function cycle_values so that it satisfies
  cycle_values(a) = b
  cycle_values(b) = c
- cycle_values(c) = a](Day025.md)
+ cycle_values(c) = a](Day026.md)
  
- 58)[
+ 58)[Imagine you want to tile a rectangle floor. You approach a tile manufacturer to produce tiles for you.
+The tile manufacturer can produce only square tiles
+He is willing to custom make them for you, but you can pick only one size
+The bigger they are, the less expensive they will be
+For example, if you order 5x5 tiles, they will be lot less expensive than 1x1 tiles
+You want to ensure every part of the floor is covered  (i.e. there are no holes or gaps)
+You want to select tiles of dimension such that there is no need for breaking them
+Write a function tile_solve to calculate the optimum tile dimension.](Day027.md)
+
+59)[
 
