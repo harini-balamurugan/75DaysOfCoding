@@ -178,5 +178,6 @@ accept a 3rd parameter, which when not provided, defaults to value of 1. ](Day02
 
 60)[Print score-based Mark List](Day029.md)
 
-61)
+61)[Write a Python function quick_compress for a crude compression where in a given input token string the function removes the consecutively repeating characters and replaces the count of the repeated characters in the string.
+Return the compressed text from the function as a string.](Day030.md)
 
