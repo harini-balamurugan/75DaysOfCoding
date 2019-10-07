@@ -191,9 +191,8 @@ if both list of keys and list of values are provided, return a list containing t
 
 64)[Given a number (with a minimum of 3 digits), the function self_converge should return the number of iterations it takes to arrive at a derived number that converges on to itself.](Day033.md)
 
-65)[Write a function second_biggest_value which accepts three integers, and does the following:
-returns the second biggest value among the three
-returns “NA” if there are two or more equal values](Day034.md)
+65)[Perform a transpose of the matrix given. 
+If the input matrix is ill-formed, use 0 for the fill value. ](Day034.md)
 
 66)[Write a function that returns the number of small ladoos to use, assuming we always use big ladoos before small ladoos. Return -1 if it can't be done.
 make_ladoos(small, big, goal) 
