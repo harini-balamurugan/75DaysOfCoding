@@ -181,3 +181,10 @@ accept a 3rd parameter, which when not provided, defaults to value of 1. ](Day02
 61)[Write a Python function quick_compress for a crude compression where in a given input token string the function removes the consecutively repeating characters and replaces the count of the repeated characters in the string.
 Return the compressed text from the function as a string.](Day030.md)
 
+62)[We can create a dictionary mapping people to sets of their friends. For example, we might say:
+d["fred"]  = set(["wilma", "betty", "barney", "bam-bam"])  
+d["wilma"] = set(["fred", "betty", "dino"])](Day031.md)
+
+63)[Write a python function fromlist that accepts a maximum of two lists - a list of keys and a list of values.
+if the list of values is not provided, use 0 as the value for all keys and return a dictionary object
+if both list of keys and list of values are provided, return a list containing tuples containing corresponding items from both lists. Use list comprehension to deliver the output.](Day032.md)
