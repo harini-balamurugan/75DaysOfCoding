@@ -195,4 +195,13 @@ if both list of keys and list of values are provided, return a list containing t
 returns the second biggest value among the three
 returns “NA” if there are two or more equal values](Day034.md)
 
-66)
+66)[Write a function that returns the number of small ladoos to use, assuming we always use big ladoos before small ladoos. Return -1 if it can't be done.
+make_ladoos(small, big, goal) 
+small -> number of small ladoos available
+big -> number of big ladoos available
+goal -> the desired weight of the final package](Day035.md)
+
+67)[Given a sequence of characters, does "abc" appear in the CENTRE of the string? ](Day036.md)
+
+68)[
+
